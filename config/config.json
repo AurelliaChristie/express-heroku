@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root_sql1",
+    "password": "f1675897",
+    "database": "db_todo1",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root_sql1",
+    "password": "f1675897",
+    "database": "db_todo1",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root_sql1",
+    "password": "f1675897",
+    "database": "db_todo1",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  }
+}
